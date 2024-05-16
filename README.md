@@ -7,10 +7,10 @@
 2. River : https://soundcloud.com/musicbyaden/river
 3. Color : https://youtu.be/Asy22pbbs8U?si=c7QCSRj7ApMDq1kW
 
-1.앱을 위한 사전 셋팅
+앱을 위한 사전 셋팅
   1. 안드로이드 기기 /sdcard에 샘플음악 3개를 넣습니다.
   2. 앱을 실행하면 자동으로 mp3 파일들만 리스트에 뜹니다.
 
-2. 재생 및 정지
+재생 및 정지
   1. 리스트뷰에 올라와 있는 음악을 클릭하면 재생됩니다.
   2. "Stop"버튼을 누르면 음악이 정지됩니다.
